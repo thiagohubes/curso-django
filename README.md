@@ -1,6 +1,8 @@
 # curso-django
 Código desenvolvido no módulo Django do curso Python Pro BR
 
+Aplicação disponível em https://pythonprodjangot.herokuapp.com/
+
 [![Build Status](https://travis-ci.org/thiagohubes/curso-django.svg?branch=master)](https://travis-ci.org/thiagohubes/curso-django)
 [![Updates](https://pyup.io/repos/github/thiagohubes/curso-django/shield.svg)](https://pyup.io/repos/github/thiagohubes/curso-django/)
 [![Python 3](https://pyup.io/repos/github/thiagohubes/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/thiagohubes/curso-django/)
